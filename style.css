@@ -16,3 +16,14 @@ header {
   justify-content: space-between;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
+
+.ques {
+  padding: 2rem;
+}
+.que {
+  padding-bottom: 1rem;
+}
+.ans {
+  padding: 1.5rem;
+  border: 2px solid black;
+}
