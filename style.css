@@ -27,3 +27,11 @@ header {
   padding: 1.5rem;
   border: 2px solid black;
 }
+.table {
+  text-align: center;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+}
